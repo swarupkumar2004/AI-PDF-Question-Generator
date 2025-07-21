@@ -1,0 +1,458 @@
+[
+  {
+    "question": "What is shown in the image: 'a pencil and a pencil with a line of arrows'?",
+    "image": "extracted_images/page10_image2.png",
+    "caption": "a pencil and a pencil with a line of arrows",
+    "options": [
+      "extracted_images/page2_image7.png",
+      "extracted_images/page2_image5.png",
+      "extracted_images/page10_image2.png",
+      "extracted_images/page5_image2.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "What is shown in the image: 'the logo for the new website'?",
+    "image": "extracted_images/page10_image3.png",
+    "caption": "the logo for the new website",
+    "correct_answer_index": null
+  },
+  {
+    "question": "What is shown in the image: 'a clock with a white face and a black face'?",
+    "image": "extracted_images/page10_image4.png",
+    "caption": "a clock with a white face and a black face",
+    "options": [
+      "extracted_images/page13_image2.png",
+      "extracted_images/page1_image7.png",
+      "extracted_images/page10_image4.png",
+      "extracted_images/page9_image4.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "What is shown in the image: 'a drawing of a line of lines that are drawn in different directions'?",
+    "image": "extracted_images/page11_image2.png",
+    "caption": "a drawing of a line of lines that are drawn in different directions",
+    "options": [
+      "extracted_images/page1_image4.png",
+      "extracted_images/page5_image4.png",
+      "extracted_images/page10_image2.png",
+      "extracted_images/page11_image2.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "What is shown in the image: 'a set of blue balloons with a white background'?",
+    "image": "extracted_images/page11_image3.png",
+    "caption": "a set of blue balloons with a white background",
+    "options": [
+      "extracted_images/page8_image9.png",
+      "extracted_images/page4_image3.png",
+      "extracted_images/page11_image3.png",
+      "extracted_images/page1_image5.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "Which image represents the number numbers?",
+    "image": "extracted_images/page12_image2.png",
+    "caption": "a diagram of the number of the two - dimensional numbers",
+    "correct_answer_index": null
+  },
+  {
+    "question": "What is shown in the image: 'a scale with a lamp and a book on it'?",
+    "image": "extracted_images/page13_image2.png",
+    "caption": "a scale with a lamp and a book on it",
+    "options": [
+      "extracted_images/page8_image9.png",
+      "extracted_images/page11_image3.png",
+      "extracted_images/page13_image2.png",
+      "extracted_images/page11_image2.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "Which image represents the number it?",
+    "image": "extracted_images/page13_image3.png",
+    "caption": "a beach ball with a number on it",
+    "options": [
+      "extracted_images/page13_image3.png",
+      "extracted_images/page4_image3.png",
+      "extracted_images/page5_image4.png",
+      "extracted_images/page2_image5.png"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page1_image10.png",
+    "caption": "a flower with the number 25 on it",
+    "options": [
+      "extracted_images/page1_image7.png",
+      "extracted_images/page13_image3.png",
+      "extracted_images/page9_image5.png",
+      "extracted_images/page1_image10.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page1_image2.png",
+    "caption": "a drawing of three flowers with faces",
+    "options": [
+      "extracted_images/page13_image2.png",
+      "extracted_images/page4_image5.png",
+      "extracted_images/page1_image2.png",
+      "extracted_images/page1_image7.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page1_image3.png",
+    "caption": "a drawing of a flower with four petals",
+    "options": [
+      "extracted_images/page1_image3.png",
+      "extracted_images/page11_image2.png",
+      "extracted_images/page1_image2.png",
+      "extracted_images/page5_image2.png"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page1_image4.png",
+    "caption": "a drawing of two flowers with faces",
+    "options": [
+      "extracted_images/page1_image4.png",
+      "extracted_images/page6_image2.png",
+      "extracted_images/page1_image7.png",
+      "extracted_images/page1_image2.png"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page1_image5.png",
+    "caption": "two black and white flowers with faces",
+    "options": [
+      "extracted_images/page1_image2.png",
+      "extracted_images/page10_image4.png",
+      "extracted_images/page9_image4.png",
+      "extracted_images/page1_image5.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page1_image6.png",
+    "caption": "a drawing of two flowers with faces",
+    "options": [
+      "extracted_images/page1_image7.png",
+      "extracted_images/page4_image5.png",
+      "extracted_images/page1_image6.png",
+      "extracted_images/page6_image3.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page1_image7.png",
+    "caption": "a drawing of two flowers with faces",
+    "options": [
+      "extracted_images/page1_image7.png",
+      "extracted_images/page1_image6.png",
+      "extracted_images/page2_image5.png",
+      "extracted_images/page8_image6.png"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page1_image8.png",
+    "caption": "a diagram of the four petals of a flower",
+    "correct_answer_index": null
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page1_image9.png",
+    "caption": "a flower with the number 15 on it",
+    "options": [
+      "extracted_images/page10_image4.png",
+      "extracted_images/page9_image5.png",
+      "extracted_images/page1_image4.png",
+      "extracted_images/page1_image9.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page2_image2.png",
+    "caption": "a flower with four petals",
+    "options": [
+      "extracted_images/page9_image5.png",
+      "extracted_images/page2_image2.png",
+      "extracted_images/page4_image5.png",
+      "extracted_images/page9_image4.png"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "question": "What is the flower shown in the image?",
+    "image": "extracted_images/page2_image3.png",
+    "caption": "a flower with the number 50 on it",
+    "options": [
+      "extracted_images/page2_image3.png",
+      "extracted_images/page4_image5.png",
+      "extracted_images/page11_image2.png",
+      "extracted_images/page9_image3.png"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": "What is shown in the image: 'a black and white image of a line of light'?",
+    "image": "extracted_images/page2_image4.png",
+    "caption": "a black and white image of a line of light",
+    "options": [
+      "extracted_images/page6_image2.png",
+      "extracted_images/page2_image4.png",
+      "extracted_images/page1_image6.png",
+      "extracted_images/page4_image3.png"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "question": "What is shown in the image: 'a black and white photo of a metal chain'?",
+    "image": "extracted_images/page2_image5.png",
+    "caption": "a black and white photo of a metal chain",
+    "options": [
+      "extracted_images/page5_image3.png",
+      "extracted_images/page1_image3.png",
+      "extracted_images/page2_image5.png",
+      "extracted_images/page3_image2.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "What is shown in the image: 'a basket with bananas and a banana peel'?",
+    "image": "extracted_images/page2_image7.png",
+    "caption": "a basket with bananas and a banana peel",
+    "options": [
+      "extracted_images/page2_image7.png",
+      "extracted_images/page2_image3.png",
+      "extracted_images/page2_image4.png",
+      "extracted_images/page4_image4.png"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": "Which image represents the number numbers?",
+    "image": "extracted_images/page3_image2.png",
+    "caption": "a clock with a white face and black numbers",
+    "options": [
+      "extracted_images/page3_image2.png",
+      "extracted_images/page1_image9.png",
+      "extracted_images/page1_image4.png",
+      "extracted_images/page2_image5.png"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "question": "Which image shows how to draw a cat?",
+    "image": "extracted_images/page4_image3.png",
+    "caption": "how to draw a cat",
+    "options": [
+      "extracted_images/page2_image4.png",
+      "extracted_images/page11_image3.png",
+      "extracted_images/page8_image8.png",
+      "extracted_images/page4_image3.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "Which image shows a drawing of a cat?",
+    "image": "extracted_images/page4_image4.png",
+    "caption": "a drawing of a cat",
+    "options": [
+      "extracted_images/page9_image3.png",
+      "extracted_images/page1_image2.png",
+      "extracted_images/page5_image3.png",
+      "extracted_images/page4_image4.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "Which image shows a cat with a blue collar and a white collar?",
+    "image": "extracted_images/page4_image5.png",
+    "caption": "a cat with a blue collar and a white collar",
+    "options": [
+      "extracted_images/page5_image2.png",
+      "extracted_images/page13_image2.png",
+      "extracted_images/page4_image5.png",
+      "extracted_images/page6_image2.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "Which image shows a cat with a blue bow on its neck?",
+    "image": "extracted_images/page5_image2.png",
+    "caption": "a cat with a blue bow on its neck",
+    "options": [
+      "extracted_images/page11_image2.png",
+      "extracted_images/page6_image2.png",
+      "extracted_images/page1_image2.png",
+      "extracted_images/page5_image2.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "Which image shows a cat with a blue collar and a white tail?",
+    "image": "extracted_images/page5_image3.png",
+    "caption": "a cat with a blue collar and a white tail",
+    "options": [
+      "extracted_images/page2_image5.png",
+      "extracted_images/page1_image6.png",
+      "extracted_images/page1_image2.png",
+      "extracted_images/page5_image3.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "What is shown in the image: 'the three light bulbs are shown in the same pattern'?",
+    "image": "extracted_images/page5_image4.png",
+    "caption": "the three light bulbs are shown in the same pattern",
+    "options": [
+      "extracted_images/page4_image3.png",
+      "extracted_images/page8_image8.png",
+      "extracted_images/page5_image4.png",
+      "extracted_images/page1_image9.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "Which image represents the number numbers?",
+    "image": "extracted_images/page5_image5.png",
+    "caption": "a diagram of the two circles with the same numbers",
+    "correct_answer_index": null
+  },
+  {
+    "question": "What is shown in the image: 'a diagram of a face with a blue eye'?",
+    "image": "extracted_images/page6_image2.png",
+    "caption": "a diagram of a face with a blue eye",
+    "options": [
+      "extracted_images/page4_image5.png",
+      "extracted_images/page6_image2.png",
+      "extracted_images/page2_image7.png",
+      "extracted_images/page3_image2.png"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "question": "What is shown in the image: 'a diagram of a triangle with a line of symmetry'?",
+    "image": "extracted_images/page6_image3.png",
+    "caption": "a diagram of a triangle with a line of symmetry",
+    "options": [
+      "extracted_images/page1_image9.png",
+      "extracted_images/page4_image3.png",
+      "extracted_images/page6_image3.png",
+      "extracted_images/page11_image2.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "What is shown in the image: 'a diagram of a single - pole'?",
+    "image": "extracted_images/page8_image6.png",
+    "caption": "a diagram of a single - pole",
+    "options": [
+      "extracted_images/page1_image10.png",
+      "extracted_images/page9_image3.png",
+      "extracted_images/page1_image3.png",
+      "extracted_images/page8_image6.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "What is shown in the image: 'a diagram of a single - pole'?",
+    "image": "extracted_images/page8_image7.png",
+    "caption": "a diagram of a single - pole",
+    "options": [
+      "extracted_images/page4_image5.png",
+      "extracted_images/page8_image6.png",
+      "extracted_images/page8_image7.png",
+      "extracted_images/page10_image4.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "What is shown in the image: 'a diagram of a single pole with a single pole'?",
+    "image": "extracted_images/page8_image8.png",
+    "caption": "a diagram of a single pole with a single pole",
+    "options": [
+      "extracted_images/page11_image3.png",
+      "extracted_images/page3_image2.png",
+      "extracted_images/page1_image7.png",
+      "extracted_images/page8_image8.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "What is shown in the image: 'a diagram of a single - pole'?",
+    "image": "extracted_images/page8_image9.png",
+    "caption": "a diagram of a single - pole",
+    "options": [
+      "extracted_images/page1_image3.png",
+      "extracted_images/page4_image3.png",
+      "extracted_images/page8_image9.png",
+      "extracted_images/page6_image2.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "Which image represents the number numbers?",
+    "image": "extracted_images/page9_image2.png",
+    "caption": "the number of the numbers in the numbers",
+    "correct_answer_index": null
+  },
+  {
+    "question": "Which image represents the number parts?",
+    "image": "extracted_images/page9_image3.png",
+    "caption": "a white and black line shows the number of the two different parts",
+    "options": [
+      "extracted_images/page3_image2.png",
+      "extracted_images/page8_image6.png",
+      "extracted_images/page13_image3.png",
+      "extracted_images/page9_image3.png"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "question": "What is shown in the image: 'a glass with a black handle and two glasses with a white background'?",
+    "image": "extracted_images/page9_image4.png",
+    "caption": "a glass with a black handle and two glasses with a white background",
+    "options": [
+      "extracted_images/page2_image5.png",
+      "extracted_images/page2_image2.png",
+      "extracted_images/page9_image4.png",
+      "extracted_images/page10_image2.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "What is shown in the image: 'a black mug with the words, ` ` ' and ` ' ''?",
+    "image": "extracted_images/page9_image5.png",
+    "caption": "a black mug with the words, ` ` ' and ` ' '",
+    "options": [
+      "extracted_images/page2_image7.png",
+      "extracted_images/page4_image4.png",
+      "extracted_images/page9_image5.png",
+      "extracted_images/page1_image6.png"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "question": "What is shown in the image: 'a diagram of the three aminos'?",
+    "image": "extracted_images/page9_image6.png",
+    "caption": "a diagram of the three aminos",
+    "correct_answer_index": null
+  }
+]
