@@ -92,33 +92,3 @@ Sample PDF used:
 * Total questions generated: \~50+
 * Format: MCQs with 4 options (images)
 * JSON ready for integration into quiz systems or AI pipelines
-
----
-
-## 🤖 Author
-
-**Name**: *\[Your Name Here]*
-**Internship Role**: AI/Python Intern
-**Assignment**: PDF Content Analysis and Question Generation
-
----
-
-## 📬 Contact
-
-For questions or clarifications, feel free to reach out at
-📧 [your.email@example.com](mailto:your.email@example.com)
-
----
-
-```
-
----
-
-### ✅ Next Steps
-
-1. Replace `[Your Name Here]` with your name.
-2. Save the above as a `README.md` file in your GitHub folder.
-3. (Optional) Add a project screenshot or example if you want to make it visual.
-
-Let me know if you’d like help generating a `requirements.txt` file or zipping everything for upload!
-```
